@@ -1,11 +1,49 @@
-## Gustavo Lima
+<h1 align="center">Gustavo Lima ⭐</h1>
 
-<div>
-    <width="80%"><br>
-    <img width="900" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/assets/flowers-15.jpeg">
-</div></br>
-      
-<table width="100%"> 
+###
 
-<div width="30%">    
-<h3> Olá, seja-vindo(a) ao meu perfil!</h3>  
+<div align="center">
+  <img height="200" src="https://media.tenor.com/xC4Xgzy4tc0AAAAM/ocarina-of-time-zelda.gif"  />
+</div>
+
+###
+
+<h3 align="center">Olá, seja-vindo(a) ao meu perfil, eu me chamo Gustavo!</h3>
+
+###
+
+<p align="left">Sou estudante de Engenharia Química estou desenvolvendo um projeto de uma comunidade chamada UniQuímica-Livre, um lugar para networking e estudo colaborativo.</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavolimaestrela/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/GcabK7yy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Limonations&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Limonations&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Limonations/Limonations/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Limonations/Limonations/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Limonations/Limonations/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Limonations.Limonations&"  />
+</div>
+
+###
