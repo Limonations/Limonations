@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Limonations&show_icons=true&theme=dracula."  />
+ <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Limonations&show_icons=true&theme=merko&locale=pt-br"  />
  
 </div>
 
