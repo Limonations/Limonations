@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia Química estou desenvolvendo um projeto de uma comunidade chamada UniQuímica-Livre, um lugar para networking e estudo colaborativo.</p>
+<p align="left">Sou estudante de Engenharia Química estou desenvolvendo um projeto de uma comunidade no discord chamada Central Da Engenharia Química, um lugar para networking e estudo colaborativo.</p>
 
 ###
 
