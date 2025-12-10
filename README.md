@@ -7,7 +7,7 @@
 </div>
 
 ###
-<h2 align="center">Olá, seja-vindo(a) ao meu perfil, eu me chamo Gustavo! <img width="20" src="https://github.com/user-attachments/assets/9305d66b-8ca7-490f-b762-6acd5c794aa5"/>
+<h2 align="center">Olá, seja Bem-vindo(a) ao meu perfil, eu me chamo Gustavo! <img width="20" src="https://github.com/user-attachments/assets/9305d66b-8ca7-490f-b762-6acd5c794aa5"/>
 </h2>
 
 ###
